@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/main.42eeedbe.chunk.js",
+    "main.js.map": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/main.42eeedbe.chunk.js.map",
+    "runtime-main.js": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/runtime-main.7dc7cc92.js",
+    "runtime-main.js.map": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/runtime-main.7dc7cc92.js.map",
+    "static/js/2.bd2118d1.chunk.js": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/2.bd2118d1.chunk.js",
+    "static/js/2.bd2118d1.chunk.js.map": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/2.bd2118d1.chunk.js.map",
+    "index.html": "https://rochakbhardwaj.github.io/csb-2nrw1d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.bd2118d1.chunk.js.LICENSE.txt": "https://rochakbhardwaj.github.io/csb-2nrw1d/static/js/2.bd2118d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dc7cc92.js",
+    "static/js/2.bd2118d1.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.42eeedbe.chunk.js"
+  ]
+}
